@@ -144,10 +144,6 @@ const controlAddRecipe = async function (newRecipe) {
   }
 };
 
-const welcome = function () {
-  console.log('welcome to our application');
-};
-
 //PUBLISHER- SUBSCRIBER PATTERN (Recipe view)
 const init = function () {
   bookmarkView.addHandlerbookmark(controlBookmarks);
@@ -157,7 +153,5 @@ const init = function () {
   recipeView.addHandlerUpdateServings(controlServings);
   recipeView.addHandlerbookmark(controlAddBookmark);
   addRecipeView.addHandlerUpload(controlAddRecipe);
-
-  welcome();
 };
 init();
