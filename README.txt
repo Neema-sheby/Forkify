@@ -1,4 +1,4 @@
-# Academic project 3 - Forkify
+#Academic project 3 - Forkify
 
 ## Table of Content
 * [Objective](#Objective)
@@ -6,7 +6,6 @@
 
 ## Objective:  
 Design and develop a website where a user can search, add and save recipes. This project was completed as part of a course: The Complete JavaScript Course 2021: From Zero to Expert!
-
 
 ## Design and Implementation:
 * Developed the website using HTML5, CSS3 and Vanilla JavaScript.
