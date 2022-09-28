@@ -1,4 +1,4 @@
-#Academic project 3 - Forkify
+# Academic project 3 - Forkify
 
 ## Table of Content
 * [Objective](#Objective)
