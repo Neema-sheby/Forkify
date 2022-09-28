@@ -1,6 +1,6 @@
 # Academic project 3 - Forkify
 
-## Table of Content
+## Table of Content:
 * [Objective](#Objective)
 * [Design and Implementation](#Design-and-Implementation)
 
